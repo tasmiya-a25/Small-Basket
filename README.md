@@ -195,7 +195,6 @@ Through this project, you will learn:
 ---
 
 ## 👨‍💻 Author
-
-**Furqan Abdul Rahman**
+Tasmiya.a
 
 If you found this project helpful, consider giving the repository a ⭐ to support the work.
